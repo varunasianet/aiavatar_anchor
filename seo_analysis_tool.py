@@ -521,4 +521,4 @@ gr.Interface(
     title="SEO Analysis Tool",
     description="Enter a competitor URL to perform a SEO analysis (some javascript pages will deny full scrape).",
     layout="vertical"
-).launch(share=True)
+).launch(debug=True)
