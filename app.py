@@ -15,4 +15,4 @@ gr.Interface(
     ],
     title="SEO Analysis Tool",
     description="Enter a competitor URL to perform an SEO analysis.",
-).launch(debug=True, share=True)
+).launch(debug=True)
