@@ -1,0 +1,17 @@
+beautifulsoup4
+gensim
+gradio
+matplotlib
+nltk
+numpy
+openai
+pandas
+requests
+scipy
+seaborn
+googlesearch-python
+pytrends
+scikit-learn
+ipython
+celery
+redis
